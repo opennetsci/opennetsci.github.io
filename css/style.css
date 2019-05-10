@@ -471,6 +471,12 @@ img.client-img {
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.07);
 }
 
+img.screenshot-img {
+    width: 300px;
+    margin: 30px auto;
+    box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.07);
+}
+
 img.speaker-img {
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.07);
     padding: 0px;
